@@ -1,4 +1,4 @@
-# Rockit 🚀
+# <img src="icons/icon48.png" height="32" valign="middle" alt=""> Rockit Tab Switcher
 
 Browser extension (Chrome + Firefox) that switches between dev and prod for andrewbaldock.com and Aether.
 
